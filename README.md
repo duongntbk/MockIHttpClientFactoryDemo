@@ -1,6 +1,6 @@
-This repository holds the sample code for my blog post about the Polly library.
+This repository holds the sample code for my blog post about mocking the `IHttpClientFactory` interface.
 
-[https://duongnt.com/polly-retry-request](https://duongnt.com/polly-retry-request)
+[https://duongnt.com/mock-ihttpclientfactory](https://duongnt.com/mock-ihttpclientfactory)
 
 # Usage
 
